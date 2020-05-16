@@ -1,6 +1,8 @@
 # xxx
 ssr binary for Windows copied from Alvin9999
 
+Filename: SSR.zip
+
 Partly copied from https://github.com/Alvin9999/
 
 Use it with love,care,friendship and caution.
