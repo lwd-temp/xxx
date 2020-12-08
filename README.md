@@ -1,9 +1,7 @@
 # xxx
-ssr binary for Windows copied from Alvin9999
+Proxy tool binary for Windows copied from Alvin9999
 
-Filename: SSR.zip
-
-Partly copied from https://github.com/Alvin9999/
+Partly copied from https://github.com/Alvin9999/ & https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88
 
 Use it with love,care,friendship and caution.
 
@@ -13,7 +11,21 @@ Use it with love,care,friendship and caution.
 
 应用程序非本人开发，不提供源代码，可能存在风险。
 
-You must be mad to use it.
+# 鸣谢
 
+开源软件开发者们
 
+服务器提供者们
+
+配置分发服务维护者们
+
+# Files
+
+clash.7z
+
+Goflyway.7z
+
+SSR.7z
+
+v2ray.7z
 
